@@ -13,7 +13,7 @@ app.secret_key = os.getenv("SECRET_KEY")
 db_config = {
     "host": "localhost",
     "user": "root",
-    "password": "cactircool",
+    "password": "<password>",
     "database": "hw4"
 }
 
